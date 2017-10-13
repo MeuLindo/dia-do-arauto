@@ -1,0 +1,137 @@
+
+article {
+	background-color: #086CE0;
+	font-family: times, Times New Roman, times-roman, georgia, serif;
+	font-size: 1em;
+	line-height: 2em;
+	text-transform: uppercase;
+	color: #111;
+	text-align: justify;
+}
+
+article p{
+	padding: 0 150px;
+}
+
+h1,h2,h3{
+	text-align: center;
+	
+}
+
+#h1-banner{
+	letter-spacing: 0em;
+  	line-height: 1em;
+}
+
+
+.banner{
+	text-align: center;
+	position: relative;
+
+}
+
+#logo-banner {
+
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 30%;
+	margin-left: auto;
+ 	margin-right: auto;
+	max-width: 740px;
+ 	z-index: 2;
+}
+
+#logo-banner img{
+	width: 35%;
+}
+
+
+.quem-somos{
+
+	margin: 0;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.quem-somos p{
+	columns: 2;
+}
+
+
+.quem-falamos{
+	background-color: white;
+	margin: 0;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+
+.quem-falamos img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+
+}
+
+
+.quem-falamos .texto p{
+	padding-top: 25px;
+	
+}
+
+#quem{
+	color: #086CE0;
+  
+}
+
+.o-que{
+	margin: 0;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.produto{
+	width: 25%;
+	display: inline-block;
+	float: left;
+}
+
+.produto img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+
+}
+
+footer{
+	background-color: #f4931f;
+	margin: 0;
+	padding-top: 30px;
+	padding-bottom: 0px;
+}
+
+footer h1{
+	margin: 0;
+	padding: 30px;	
+}
+
+.rodape{
+	background-color: black;
+	height: 50px;
+}
+
+.rodape p{
+	display: inline;
+	color: white;
+	padding-left: 100px;
+}
+
+.rodape img{
+	height: 15px;
+}
+
+.social{
+	padding-left: 100px;
+	padding-top: 10px;
+}

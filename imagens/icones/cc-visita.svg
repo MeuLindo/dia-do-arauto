@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 255.6 179.57"
+   version="1.1"
+   id="svg4670"
+   sodipodi:docname="cc-visita.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata4674">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview4672"
+     showgrid="false"
+     inkscape:zoom="1.271518"
+     inkscape:cx="127.8"
+     inkscape:cy="89.785004"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4670" />
+  <defs
+     id="defs4661">
+    <style
+       id="style4659">.cls-1{fill:gray;}</style>
+  </defs>
+  <title
+     id="title4663">Cartao de visita</title>
+  <g
+     id="Layer_2"
+     data-name="Layer 2"
+     style="fill:#ffffff">
+    <g
+       id="Cartao_de_visita"
+       data-name="Cartao de visita"
+       style="fill:#ffffff">
+      <g
+         id="Cartao_de_visita-2"
+         data-name="Cartao de visita"
+         style="fill:#ffffff">
+        <path
+           class="cls-1"
+           d="M0,153.15Q0,90.08,0,27c.35-1.62.68-3.25,1.05-4.86C4.13,8.77,15.36,0,29.8,0Q128.25,0,226.7,0c16.36,0,28.86,12.56,28.87,28.92q0,60.7-.06,121.4a32.59,32.59,0,0,1-1.5,9.57c-3.77,12-14.49,19.58-27.36,19.62-17.27.06-34.54,0-51.82,0q-72.54,0-145.08,0c-14.33,0-25.4-8.55-28.64-21.88C.75,156.16.37,154.65,0,153.15Zm80.29-20.5c8.5.18,16.94-.28,25.09-3,7.5-2.5,9-4.7,8.5-12.51-.58-9.63-4.54-14.76-13.68-17.76-2.8-.92-5.65-1.75-8.35-2.92-4.71-2.06-5.35-5.55-1.41-8.85,7.64-6.4,9.57-14.89,9.11-24.18-.41-8.28-4.3-13.87-11.34-15.47a38.81,38.81,0,0,0-13.41-.51c-7.32,1-11.85,5.56-12.92,13-1.49,10.35,0,19.8,8.58,27.09,3.89,3.32,3.33,6.79-1.34,8.91A56.24,56.24,0,0,1,61,99.18c-8,2.22-12.64,7.28-13.63,15.57-.2,1.66,0,3.38-.35,5-.79,4,1.16,6.41,4.41,8.1a29.62,29.62,0,0,0,4.33,1.84C63.75,132.35,72,132.82,80.29,132.64Zm93.52-37.88H204c3.59,0,4.65-1.12,4.68-4.83,0-3.92-1-5.12-4.7-5.12H143.6c-3.46,0-5.1,1.62-5.1,5s1.67,5,5.12,5Q158.72,94.77,173.81,94.76Zm.29-38.37q-15.24,0-30.48,0c-3.49,0-5,1.55-5.07,5s1.58,4.93,5.09,4.93H204c3.6,0,4.64-1.09,4.66-4.83,0-4-1-5.11-4.68-5.11Zm-.27,56.85H143.35c-3.24,0-4.84,1.66-4.81,4.92s1.54,5,4.72,5q30.49,0,61,0c3.39,0,4.46-1.28,4.45-5.09,0-3.63-1.05-4.83-4.36-4.83Q189.08,113.22,173.84,113.24Z"
+           id="path4665"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+</svg>

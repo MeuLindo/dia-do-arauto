@@ -1,0 +1,225 @@
+a{
+	color: white;
+	text-decoration: none;
+}
+article, footer {
+	background-color: #086CE0;
+	font-family: "proxima-nova",sans-serif;;
+	font-size: 1em;
+	line-height: 2em;
+	text-transform: uppercase;
+	color: #111;
+	text-align: justify;
+	background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+img {
+ border:0
+}
+article p{
+	margin: 0 auto;
+	font-size: 1.5em;
+	line-height: 1.4em;
+	max-width: 1080px;
+  padding: 50px 0;
+}
+
+p + p {
+   text-indent: 1.5em  /* I like to keep the indentation length equal to the line height. */
+}
+
+
+h1 + p:first-letter {
+   font-size: 2em;
+   line-height: 0;  /* The line-height must be adjusted to compensate for the increased font size, otherwise the leading for the overall line is disrupted. I find that any values below 0.4 work. */
+}
+
+h1,h2,h3{
+	text-align: center;
+}
+
+
+#h1-banner{
+	letter-spacing: 0em;
+  	line-height: 1em;
+		font-size: 7em;
+}
+
+
+.banner{
+	text-align: center;
+	position: relative;
+
+}
+
+#logo-banner {
+
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 25%;
+	margin-left: auto;
+ 	margin-right: auto;
+	max-width: 740px;
+ 	z-index: 2;
+	filter: opacity(0.8);
+}
+
+#logo-banner img{
+	width: 45%;
+	 filter: drop-shadow(10px 10px 10px rgba(0,0,0,1));
+}
+
+
+.quem-somos{
+
+	margin: 0;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+
+.quem-falamos{
+	background-color: white;
+	margin: 0;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+	background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png");
+  padding-bottom: 100px;
+}
+
+
+.quem-falamos img{
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-block;
+	height: 230px;
+	padding: 0	80px;
+	filter: drop-shadow( 5px 5px 5px rgba(0,0,0,0.4));
+
+
+}
+
+
+.quem-falamos .texto p{
+	padding-top: 25px;
+
+}
+
+#quem{
+	color: #086CE0;
+
+}
+
+.o-que{
+	margin: 0;
+	padding-top: 30px;
+	padding-bottom: 50px;
+	text-align: center;
+}
+
+.servicos{
+	margin-top: 30px;
+	display: inline-block;
+
+}
+
+.produto{
+	width: 20%;
+	display: inline-block;
+	text-align: center;
+}
+
+.produto img{
+	margin-left: auto;
+	margin-right: auto;
+	display: inline-block;
+	height: 130px;
+	filter: drop-shadow( 5px 5px 5px rgba(0,0,0,0.4))
+}
+
+.produto h2{
+	font-family: 'Satisfy', cursive;
+	color: white;
+	text-transform: capitalize;
+	font-size: 2.5em;
+	filter: drop-shadow( 5px 5px 5px rgba(0,0,0,0.4));
+	line-height: 1.1em;
+
+}
+
+footer{
+	background-color: #f4931f;
+	margin: 0;
+	padding-top: 20px;
+	padding-bottom: 0px;
+	text-align: center;
+	background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png");
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+
+footer h1{
+	margin: 0;
+	padding-top: 30px;
+}
+
+
+
+#agile-form{
+	text-align: center;
+	display: inline-block;
+	margin-bottom: 100px
+}
+
+#agile-form label{
+	display: none;
+}
+
+#agile-form button{
+	background-color: #333;
+	border: 1px solid #999;
+}
+
+.rodape{
+	background-color: black;
+	height: 50px;
+	padding-top: 10px;
+	text-align: left;
+}
+
+#email-rodape{
+	display: inline;
+	color: white;
+	padding-right: 10%;
+	float: right;
+	margin: 0;
+}
+
+footer p{
+	margin: 0 auto;
+	font-size: 1.5em;
+	line-height: 2em;
+	max-width: 1080px;
+	padding: 50px 0;
+}
+
+.rodape img{
+	height: 20px;
+	padding: 10px	10px;
+	vertical-align: middle;
+}
+
+#social-rodape{
+	padding-left: 10%;
+}
+
+.social{
+	padding-top: 0px;
+	float: left;
+	padding-left: 10%;
+}
+
+footer a{
+
+}
