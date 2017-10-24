@@ -62,12 +62,15 @@ h1,h2,h3{
  	margin-right: auto;
 	max-width: 740px;
  	z-index: 2;
-	filter: opacity(0.8);
+	filter: opacity(0.95);
 }
 
 #logo-banner img{
-	width: 45%;
-	 filter: drop-shadow(10px 10px 10px rgba(0,0,0,1));
+	width: 35%;
+	filter: drop-shadow(10px 10px 100px rgba(255,255,255,1));
+	position: absolute;
+	top: -60%;
+	left: -60%;
 }
 
 
